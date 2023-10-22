@@ -1,6 +1,10 @@
-# ClimateController Repository
+# ClimateController
 
-Welcome to the ClimateController repository! This repository contains everything you need to build and customize your very own ESP8266-based climate controller. Whether you want to monitor temperature, humidity, CO2 levels, control a thermostat, manage appliances with a relay, or even handle IR-based air conditioning units, the ClimateController has you covered. This README will guide you through the repository's contents and how to get started with your climate controller project.
+This is my attempt at creating a climate controller for my IOT platform. 
+This repository contains everything you need to build and customize your very own ESP8266-based climate controller. 
+Whether you want to monitor temperature, humidity, CO2 levels, control a thermostat, manage appliances with a relay, or even handle IR-based air conditioning units, the ClimateController has you covered. 
+
+This README will guide you through the repository's contents and how to get started with your climate controller project. Keep in mind this project was tailor made to cover my needs, so it will most likely need some adaptations for your use case. Feel free to ask me anything you may need about the project.
 
 ## Contents
 
@@ -59,7 +63,7 @@ To begin your ClimateController project, follow these steps:
 
 4. Manufacture the PCB and 3D print the external case.
 
-5. Load and customize the provided yml file into ESPHome, and then load it into the device.
+5. Load and customize the provided yml file into ESPHome, and then load it into the device. If you don't already have an ESPHome environment, I recommend looking into my "HomePanel" project.
 
 6. Assemble the components and enjoy your personalized climate controller.
 
