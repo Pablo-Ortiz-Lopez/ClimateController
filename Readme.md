@@ -1,5 +1,7 @@
 # ClimateController
 
+![My ClimateController](ClimateController.jpg)
+
 This is my attempt at creating a climate controller for my IOT platform. 
 
 This repository contains everything you need to build and customize your very own ESP8266-based climate controller. 
